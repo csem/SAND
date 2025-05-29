@@ -1,0 +1,12 @@
+*.txt
+!requirements.txt
+*.json
+*.h5
+*.pyc
+*.pdf
+*.ipynb
+*.png
+*.csv
+*.xls
+*.data
+*.zip
